@@ -1,0 +1,18 @@
+#boody{
+    background-image: url("cyber.jpeg");
+}
+#h1{
+    font-size: 50px;
+}
+canvas{
+    border-style: dotted;
+    box-shadow: 3px 3px 3px red;
+    border-radius: 30px;
+    margin-top: 200px;
+}
+button{
+    background-color: rgb(180, 221, 254);
+}
+#texto{
+    color: white;
+}
